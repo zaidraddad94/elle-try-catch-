@@ -1,0 +1,14 @@
+{
+  "name": "elle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "author": "zaid raddad",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-spec-reporter": "^4.2.1"
+  }
+}
